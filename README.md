@@ -1,16 +1,7 @@
-# circularpercentindicator
+# PERCENT INDICATOR • Flutter Package of the Day #04
 
-A new Flutter project.
+This is such a helpful little package that allows you to display a percentage progress in a circular or linear form. There is also an inbuilt animation that makes your apps look much more alive and fun :D
 
-## Getting Started
+Check out my youtube tutorial: https://youtu.be/nmkDW_cYrp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4B3B66C3-E918-4598-B83E-60D178ED45C8](https://user-images.githubusercontent.com/29016489/141026515-cff0172d-2008-499e-aa68-a25634c1f31d.JPG)
